@@ -1,0 +1,19 @@
+    header {
+    background-color: #008252;
+    color: white;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    ;
+}
+
+    h1 {
+    font-family: 'Times New Roman';
+    margin: 0;
+}
+
+.stema {
+    width: 50px;
+    height: auto;
+    margin-right: 8px;
+}
