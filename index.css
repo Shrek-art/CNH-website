@@ -4,7 +4,6 @@
     padding: 15px;
     display: flex;
     align-items: center;
-    ;
 }
 
     h1 {
@@ -13,7 +12,15 @@
 }
 
 .stema {
+    margin-right: 10px;
+}
+
+.stema img {
     width: 50px;
     height: auto;
-    margin-right: 8px;
+    display: block;
+}
+
+h3 {
+    font-family: 'Sitka';
 }
